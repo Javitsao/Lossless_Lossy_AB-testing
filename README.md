@@ -40,7 +40,7 @@ python abtest_pygame_display.py
 ### 環境 (Environment):
 You will need the following Python packages:
 ```bash
-pip install pygame random os subprocess requests
+pip install pygame random os subprocess requests librosa numpy
 ```
 
 ### 安裝 ffmpeg (Install ffmpeg):
