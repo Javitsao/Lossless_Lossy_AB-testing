@@ -3,6 +3,10 @@
 
 This project uses A/B testing to determine if you can discern the difference between lossless and lossy audio files.
 
+<!-- 
+    This project is still working on some bugs and the lossless format.
+-->
+
 ## 1. Terminal Version
 
 ### 使用方式 (How to run):
